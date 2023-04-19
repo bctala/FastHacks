@@ -1,6 +1,6 @@
-# fast_hacks
+# Fast_hacks
 
-A new Flutter project.
+A new Flutter project under the name Murshdi.
 
 ## Getting Started
 
