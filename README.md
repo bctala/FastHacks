@@ -19,4 +19,11 @@ Finding the right prayer location can be essential for a fulfilling spiritual ex
 Beyond supporting worship, **Murshdi** serves as a guide to historical and culturally significant places. It enriches users' understanding of their faith and local culture by providing information about landmarks, museums, and heritage sites. This feature encourages users to connect with their heritage and explore the history and traditions of their region.
 
 ## UI
+<img src="/Prototype/1.PNG" alt="Alt Text" width="200" height="400"> <img src="/Prototype/2.PNG" alt="Alt Text" width="200" height="400"> <img src="/Prototype/3.PNG" alt="Alt Text" width="200" height="400">
+
+<img src="/Prototype/4.PNG" alt="Alt Text" width="200" height="400"> <img src="/Prototype/5.PNG" alt="Alt Text" width="200" height="400"> <img src="/Prototype/6.PNG" alt="Alt Text" width="200" height="400">
+
+<img src="/Prototype/7.PNG" alt="Alt Text" width="200" height="400">
+
+
 
